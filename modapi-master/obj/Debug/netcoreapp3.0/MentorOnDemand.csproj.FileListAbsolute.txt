@@ -1,0 +1,471 @@
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\MentorOnDemand.exe
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.Manifest.cache
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.xml
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfo.cs
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.csproj.CopyComplete
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\MentorOnDemand.deps.json
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.json
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\MentorOnDemand.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\HP\source\repos\Ems.Net\MentorOnDemand\obj\Debug\netcoreapp3.0\MentorOnDemand.MvcApplicationPartsAssemblyInfo.cache
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\appsettings.json
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.exe
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.deps.json
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.json
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.dev.json
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.pdb
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csprojAssemblyReference.cache
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.Manifest.cache
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.xml
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.MvcApplicationPartsAssemblyInfo.cache
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfoInputs.cache
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfo.cs
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.RazorTargetAssemblyInfo.cache
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csproj.CopyComplete
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.dll
+E:\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.exe
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.deps.json
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.json
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.dev.json
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.xml
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfo.cs
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csproj.CopyComplete
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.exe
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.deps.json
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.json
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.runtimeconfig.dev.json
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csprojAssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.Manifest.cache
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.xml
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.RazorTargetAssemblyInfo.cache
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csproj.CopyComplete
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.dll
+C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.pdb
