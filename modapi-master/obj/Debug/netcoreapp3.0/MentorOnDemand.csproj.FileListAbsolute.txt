@@ -344,7 +344,6 @@ C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp
 C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csprojAssemblyReference.cache
 C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.Manifest.cache
 C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\staticwebassets\MentorOnDemand.StaticWebAssets.xml
-C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfoInputs.cache
 C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.AssemblyInfo.cs
 C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.RazorTargetAssemblyInfo.cache
@@ -469,3 +468,7 @@ C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debu
 C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.csproj.CopyComplete
 C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.dll
 C:\Users\divya\OneDrive\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.pdb
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\FINAL PROJECT(DIVYAJYOTI)\modapi-master\obj\Debug\netcoreapp3.0\MentorOnDemand.MvcApplicationPartsAssemblyInfo.cache

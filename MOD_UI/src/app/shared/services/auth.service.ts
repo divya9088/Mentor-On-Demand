@@ -4,9 +4,17 @@ import { map } from "rxjs/operators";
 
 const httpOptions1 = {
   headers: new HttpHeaders({
-    "Content-Type": "application/json"
+    "Content-Type": "application/json",
+    "Authorization": "Bearer " + localStorage.getItem("id_token")
   })
 };
+
+const httpOptions = {
+  headers: new HttpHeaders({
+    "Authorization": "Bearer " + localStorage.getItem("id_token")
+  })
+};
+
 @Injectable({
   providedIn: "root"
 })
@@ -16,12 +24,7 @@ export class AuthService {
   
   private loggedIn = false;
 
-  httpOptions = {
-    headers: new HttpHeaders({
-      "Content-Type": "application/json",
-      "Authorizaton": this.token
-    })
-  };
+  
 
   constructor(private http: HttpClient) {}
 
@@ -29,20 +32,20 @@ export class AuthService {
   // Get All - API
 
   public getAllRegistered() {
-    console.log();
-    return this.http.get("https://localhost:44359/api/admin/GetUsers");
+    console.log(localStorage.getItem("id_token"));
+    return this.http.get("https://localhost:44359/api/admin/GetUsers",httpOptions1);
   }
 
   public getAllSkills() {
-    return this.http.get("https://localhost:44359/api/admin/getSkills");
+    return this.http.get("https://localhost:44359/api/admin/getSkills",httpOptions1);
   }
 
   public getAllTraining() {
-    return this.http.get("https://localhost:44359/api/admin/getTrainings");
+    return this.http.get("https://localhost:44359/api/admin/getTrainings",httpOptions1);
   }
   
   public getAllPayment() {
-    return this.http.get("https://localhost:44359/api/admin/GetPayments");
+    return this.http.get("https://localhost:44359/api/admin/GetPayments",httpOptions1);
   }
 
 
@@ -50,27 +53,27 @@ export class AuthService {
 
   public getUserById(id) {
     console.log(id);
-    return this.http.get("https://localhost:44359/api/admin/"+ id);
+    return this.http.get("https://localhost:44359/api/admin/"+ id,httpOptions1);
   }
 
   public getSkillById(id) {
-    return this.http.get("https://localhost:44359/api/admin/GetSkill/" + id);
+    return this.http.get("https://localhost:44359/api/admin/GetSkill/" + id,httpOptions1);
   }
 
   public getTrainingById(id) {
-    return this.http.get("https://localhost:44359/api/admin/GetTrainingById/" + id);
+    return this.http.get("https://localhost:44359/api/admin/GetTrainingById/" + id,httpOptions1);
   }
 
   public getPaymentById(id)
   {
-    return this.http.get("https://localhost:44359/api/admin/GetPaymentById/" + id);
+    return this.http.get("https://localhost:44359/api/admin/GetPaymentById/" + id,httpOptions1);
   }
 
   // Get Search Data - API
  
   public getSearchData(data) {
     return this.http.get(
-      "https://localhost:44359/api/admin/searchdata?trainerTechnology=" + data
+      "https://localhost:44359/api/admin/searchdata?trainerTechnology=" + data,httpOptions
     );
   }
 
@@ -144,7 +147,7 @@ export class AuthService {
   public updateTrainingAndPaymentStatusById(id) {
     return this.http
       .put(
-        "https://localhost:44359/api/admin/updateTrainingAndPaymentStatusbyId/" + id,
+        "https://localhost:44359/api/admin/updateTrainingAndPaymentStatusbyId/" + id,null,
         httpOptions1
       )
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
@@ -152,7 +155,7 @@ export class AuthService {
 
   public updateTrainingStatusById(id) {
     return this.http
-      .put("https://localhost:44359/api/admin/updateTrainingStatusById/" + id, httpOptions1)
+      .put("https://localhost:44359/api/admin/updateTrainingStatusById/" + id,null, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
@@ -182,13 +185,13 @@ export class AuthService {
 
   public acceptTrainingRequestById(id) {
     return this.http
-      .put("https://localhost:44359/api/admin/acceptrequest/" + id, httpOptions1)
+      .put("https://localhost:44359/api/admin/acceptrequest/" + id,null, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
   public rejectTrainingRequestById(id) {
     return this.http
-      .put("https://localhost:44359/api/admin/rejectrequest/" + id, httpOptions1)
+      .put("https://localhost:44359/api/admin/rejectrequest/" + id,null, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
