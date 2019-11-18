@@ -161,13 +161,13 @@ export class AuthService {
 
   public updateTrainingProgress(id,progressValue) {
     return this.http
-      .put("https://localhost:44359/api/admin/updateTrainingProgressById?id=" + id + "&progressValue=" + progressValue,  httpOptions1)
+      .put("https://localhost:44359/api/admin/updateTrainingProgressById?id=" + id + "&progressValue=" + progressValue, progressValue,  httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
   public updateTrainingRatings(id,rating) {
     return this.http
-      .put("https://localhost:44359/api/admin/updateTrainingRatingById?id=" + id + "&rating=" + rating,  httpOptions1)
+      .put("https://localhost:44359/api/admin/updateTrainingRatingById?id=" + id + "&rating=" + rating, rating,  httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 

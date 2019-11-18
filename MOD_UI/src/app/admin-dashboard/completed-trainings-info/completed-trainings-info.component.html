@@ -21,8 +21,8 @@
 
       <tr *ngFor="let i of compT">
         <td scope="row">{{i.skillname}}</td>
-        <td>{{i.userName}}</td>
-        <td>{{i.mentorName}}</td>
+        <td>{{i.userFirstName}} {{i.userLastName}}</td>
+        <td>{{i.mentorFirstName}} {{i.mentorLastName}}</td>
         <td>{{i.startDate | date: 'dd/MM/yyyy'}}</td>
         <td>{{i.endDate | date: 'dd/MM/yyyy'}}</td>
         <td>{{i.timeSlot}}</td>
