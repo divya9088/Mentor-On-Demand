@@ -73,7 +73,7 @@ export class AuthService {
  
   public getSearchData(data) {
     return this.http.get(
-      "https://localhost:44359/api/admin/searchdata?trainerTechnology=" + data,httpOptions
+      "https://localhost:44359/api/student/searchdata?trainerTechnology=" + data,httpOptions
     );
   }
 
@@ -94,14 +94,14 @@ export class AuthService {
 
   public saveTraining(data) {
     return this.http
-      .post("https://localhost:44359/api/admin/training", data, httpOptions1)
+      .post("https://localhost:44359/api/student/training", data, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
   public savePayment(data) {
     console.log(data);
     return this.http
-      .post("https://localhost:44359/api/admin/payment", data, httpOptions1)
+      .post("https://localhost:44359/api/student/payment", data, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
@@ -132,7 +132,7 @@ export class AuthService {
   {
     console.log("in update")
     return this.http
-    .put("https://localhost:44359/api/admin/" + id, model, httpOptions1)
+    .put("https://localhost:44359/api/student/" + id, model, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
@@ -140,14 +140,14 @@ export class AuthService {
   {
   console.log("in update")
   return this.http
-    .put("https://localhost:44359/api/admin/" + id, model, httpOptions1)
+    .put("https://localhost:44359/api/mentor/" + id, model, httpOptions1)
     .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
 }
 
   public updateTrainingAndPaymentStatusById(id) {
     return this.http
       .put(
-        "https://localhost:44359/api/admin/updateTrainingAndPaymentStatusbyId/" + id,null,
+        "https://localhost:44359/api/student/updateTrainingAndPaymentStatusbyId/" + id,null,
         httpOptions1
       )
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
@@ -155,19 +155,19 @@ export class AuthService {
 
   public updateTrainingStatusById(id) {
     return this.http
-      .put("https://localhost:44359/api/admin/updateTrainingStatusById/" + id,null, httpOptions1)
+      .put("https://localhost:44359/api/student/updateTrainingStatusById/" + id,null, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
   public updateTrainingProgress(id,progressValue) {
     return this.http
-      .put("https://localhost:44359/api/admin/updateTrainingProgressById?id=" + id + "&progressValue=" + progressValue, progressValue,  httpOptions1)
+      .put("https://localhost:44359/api/student/updateTrainingProgressById?id=" + id + "&progressValue=" + progressValue, progressValue,  httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
   public updateTrainingRatings(id,rating) {
     return this.http
-      .put("https://localhost:44359/api/admin/updateTrainingRatingById?id=" + id + "&rating=" + rating, rating,  httpOptions1)
+      .put("https://localhost:44359/api/student/updateTrainingRatingById?id=" + id + "&rating=" + rating, rating,  httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
@@ -185,13 +185,13 @@ export class AuthService {
 
   public acceptTrainingRequestById(id) {
     return this.http
-      .put("https://localhost:44359/api/admin/acceptrequest/" + id,null, httpOptions1)
+      .put("https://localhost:44359/api/mentor/acceptrequest/" + id,null, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 
   public rejectTrainingRequestById(id) {
     return this.http
-      .put("https://localhost:44359/api/admin/rejectrequest/" + id,null, httpOptions1)
+      .put("https://localhost:44359/api/mentor/rejectrequest/" + id,null, httpOptions1)
       .pipe(map(data1 => (data1 = JSON.parse(JSON.stringify(data1)))));
   }
 

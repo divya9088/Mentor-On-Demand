@@ -8608,11 +8608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\aaaa\\FINAL PROJECT(DIVYAJYOTI)\\modapi-master\\MentorOnDemand.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\FINAL PROJECT(DIVYAJYOTI)\\modapi-master\\MentorOnDemand.csproj",
       "projectName": "MentorOnDemand",
-      "projectPath": "C:\\Users\\hp\\Desktop\\aaaa\\FINAL PROJECT(DIVYAJYOTI)\\modapi-master\\MentorOnDemand.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\FINAL PROJECT(DIVYAJYOTI)\\modapi-master\\MentorOnDemand.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\aaaa\\FINAL PROJECT(DIVYAJYOTI)\\modapi-master\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\FINAL PROJECT(DIVYAJYOTI)\\modapi-master\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

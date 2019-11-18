@@ -84,7 +84,7 @@ export class UserNotificationComponent implements OnInit {
       let now = moment().format("DD-MM-YYYY");
 
       console.log(checkDate1);
-
+      console.log(checkDate2);
       console.log(now);
 
       if (now > checkDate2) {

@@ -22,11 +22,11 @@ namespace MentorOnDemand.Controllers
             this.adminRepository = adminRepository;
         }
         // GET: api/Admin
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+        //[HttpGet]
+        //public IEnumerable<string> Get()
+        //{
+        //    return new string[] { "value1", "value2" };
+        //}
 
         // GET: api/Admin/5
         //[HttpGet("{id}", Name = "Get")]
@@ -46,36 +46,21 @@ namespace MentorOnDemand.Controllers
             return BadRequest(ModelState);
         }
 
-
-        [HttpPost("training")]
-        public IActionResult PostTraining([FromBody] TrainingDtls training)
+        [HttpGet("GetTrainingById/{id}")]
+        public IActionResult GetTrainingById(int id)
         {
-            if (ModelState.IsValid)
-            {
-                bool result = adminRepository.AddTraining(training);
-                return Created("AddTraining", training);
-            }
-            return BadRequest(ModelState);
+            return Ok(adminRepository.GetTrainingById(id));
         }
 
 
-        [HttpPost("payment")]
-        public IActionResult PostPayment([FromBody] PaymentDtls payment)
-        {
-            if (ModelState.IsValid)
-            {
-                bool result = adminRepository.AddPayment(payment);
-                return Created("AddPayment", payment);
-            }
-            return BadRequest(ModelState);
-        }
 
-        [HttpGet("getSkills")] 
+
+        [HttpGet("getSkills")]
         public IActionResult GetSkills()
         {
             return Ok(adminRepository.GetSkills());
         }
-        [HttpGet("getTrainings")] 
+        [HttpGet("getTrainings")]
         public IActionResult GetTrainings()
         {
             return Ok(adminRepository.GetTrainings());
@@ -93,11 +78,19 @@ namespace MentorOnDemand.Controllers
             return Ok(adminRepository.GetPayments());
         }
 
-        [HttpGet("GetTrainingById/{id}")]
-        public IActionResult GetTrainingById(int id)
+
+        [HttpGet("{id}")]
+        public IActionResult GetUser(string id)
         {
-            return Ok(adminRepository.GetTrainingById(id));
+            var User = adminRepository.GetUser(id);
+            if (User == null)
+            {
+                return NotFound();
+            }
+            return Ok(User);
         }
+
+
 
         [HttpGet("GetPaymentById/{id}")]
         public IActionResult GetPaymentById(int id)
@@ -117,30 +110,8 @@ namespace MentorOnDemand.Controllers
             return Ok(skill);
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetUser(string id)
-        {
-            var User = adminRepository.GetUser(id);
-            if (User == null)
-            {
-                return NotFound();
-            }
-            return Ok(User);
-        }
 
-        [HttpGet("searchdata")]
-        public IActionResult GetSearchData(string trainertechnology)
-        {
-            if (trainertechnology != null)
-            {
-                var result = adminRepository.GetSearchData(trainertechnology);
-                return Ok(result);
-            }
-            else
-            {
-                return Ok("Error Fetching Data");
-            }
-        }
+
 
         [HttpDelete("DeleteSkill/{id}", Name = "DeleteSkill")]
         public IActionResult Delete(int id)
@@ -170,71 +141,16 @@ namespace MentorOnDemand.Controllers
         }
 
 
-        [HttpPut("{id}")]
-        public IActionResult Put(string id, [FromBody] UserProfileDto userProfileDto)
-        {
-            if (ModelState.IsValid && id == userProfileDto.Id)
-            {
-                bool result = adminRepository.UpdateUser(id,userProfileDto);
-                if (result)
-                {
-                    return Ok();
-                }
-                return StatusCode(StatusCodes.Status500InternalServerError);
-            }
-            return BadRequest(ModelState);
-
-        }
-
         [HttpPut("updatePaymentAndCommisionById/{id}")]
         public IActionResult PutupdatePaymentAndCommisionById(string id, [FromBody] PaymentDto payment)
         {
-               adminRepository.PutupdatePaymentAndCommisionById(id, payment);
-            return Ok();
-        }
-
-        [HttpPut("updateTrainingProgressById")]
-        public IActionResult PutupdateTrainingProgressById(int id, int progressValue)
-        {
-            adminRepository.PutupdateTrainingProgressById(id, progressValue);
+            adminRepository.PutupdatePaymentAndCommisionById(id, payment);
             return Ok();
         }
 
 
-        [HttpPut("updateTrainingRatingById")]
-        public IActionResult PutupdateTrainingRatingById(int id, int rating)
-        {
-            adminRepository.PutupdateTrainingRatingById(id,rating);
-            return Ok();
-        }
 
-        [HttpPut("acceptrequest/{id}")]
-        public IActionResult PutAcceptRequest(int id)
-        {
-            adminRepository.PutAcceptRequest(id);
-            return Ok();
-        }
 
-        [HttpPut("rejectrequest/{id}")]
-        public IActionResult PutRejectrequest(int id)
-        {
-            adminRepository.PutRejectrequest(id);
-            return Ok();
-        }
-
-        [HttpPut("updateTrainingStatusById/{id}")]
-        public IActionResult PutupdateTrainingStatusById(int id)
-        {
-            adminRepository.PutupdateTrainingStatusById(id);
-            return Ok();
-        }
-
-        [HttpPut("updateTrainingAndPaymentStatusbyId/{id}")]
-        public IActionResult PutupdateTrainingAndPaymentStatusbyId(int id)
-        {
-            adminRepository.PutupdateTrainingAndPaymentStatusbyId(id);
-            return Ok();
-        }
 
 
 

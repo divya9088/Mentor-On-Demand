@@ -12,6 +12,7 @@ export class AddRemoveComponent implements OnInit {
   submitted = false;
   techInfo: String;
   skillData: Object;
+
   constructor(private fb: FormBuilder, private auth: AuthService) { }
 
   ngOnInit() {
@@ -26,7 +27,7 @@ export class AddRemoveComponent implements OnInit {
   }
 
   getAllSkillslogy() {
-    console.log("hello")
+    console.log("hello");
     this.auth.getAllSkills().subscribe(data => {
       console.log(data);
       this.skillData = data;

@@ -125,12 +125,14 @@ namespace MentorOnDemand.Controllers
         private async Task<TokenDto> GenerateJwtToken(string email,
             UserMod user)
         {
+            var roles = await userManager.GetRolesAsync(user);
+            var role = roleManager.Roles.SingleOrDefault(r => r.Name == roles.SingleOrDefault());
             var claims = new List<Claim>
             {
                 new Claim(JwtRegisteredClaimNames.Sub,email),
                 new Claim(JwtRegisteredClaimNames.Jti,Guid.NewGuid().ToString()),
                 new Claim(ClaimTypes.NameIdentifier,user.Id),
-
+                new Claim(ClaimTypes.Role, role.Name)
             };
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(
                 configuration["JwtKey"]));
@@ -146,8 +148,7 @@ namespace MentorOnDemand.Controllers
                 expires: expires,
                 signingCredentials: creds);
 
-            var roles = await userManager.GetRolesAsync(user);
-            var roleId = roleManager.Roles.SingleOrDefault(r => r.Name == roles.SingleOrDefault()).Id;
+          
 
             var response = new TokenDto
             {
@@ -155,7 +156,7 @@ namespace MentorOnDemand.Controllers
                 userInfo= new UserInfoDto
                 {
                     Email = user.Email,
-                    Role = Convert.ToInt32(roleId),
+                    Role = Convert.ToInt32(role.Id),
                     Id=user.Id,
                     Active=true
                 },
